@@ -1,6 +1,6 @@
 # kzanalysis
 
-A new Flutter project.
+A cross platform generative AI chatbot for video/document analysis for mobile users. It will generate text-based analysis on specific video and document files, learn specific details through algorithms, prompting users to query any details. To be developed using the Flutter framework.
 
 ## Getting Started
 

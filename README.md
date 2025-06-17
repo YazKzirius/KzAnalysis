@@ -1,6 +1,6 @@
 # kzanalysis
 
-A cross platform generative AI chatbot for document analysis for mobile users. It will generate text-based analysis on specific video and document files, learn specific details through algorithms, prompting users to query any details. This is being built to specifcally target medical record understanding for healthcare research. To be developed using the Flutter framework.
+A cross platform generative AI chatbot for document analysis for mobile users. It will generate text-based analysis on specific document files, learn specific details through algorithms, prompting users to query any details. This is being built to specifcally target medical record understanding for healthcare research. To be developed using the Flutter framework.
 
 ## Getting Started
 
